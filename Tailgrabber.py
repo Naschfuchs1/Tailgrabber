@@ -2,8 +2,8 @@ import requests
 import re
 
 # Define the file paths
-input_file = r'X:\Users\XXX\Desktop\123.txt'
-output_file = r'X:\Users\XXX\Desktop\321.txt'
+input_file = r'X:\Users\XXX\Desktop\XXX.txt'
+output_file = r'X:\Users\XXX\Desktop\XXX.txt'
 
 # Read URLs from the input file
 with open(input_file, 'r') as file:
