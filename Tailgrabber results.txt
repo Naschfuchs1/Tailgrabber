@@ -1,0 +1,2856 @@
+URL: https://what3words.com/Washed.Frost.Robot
+Extracted Coordinates: 39.386791,-123.356627
+
+URL: https://what3words.com/Washed.Frost.Misfits
+Extracted Coordinates: -27.969154,-55.525992
+
+URL: https://what3words.com/Washed.Frost.Shady
+Extracted Coordinates: 37.197944,-93.269784
+
+URL: https://what3words.com/Washed.Frost.Goat
+Extracted Coordinates: 39.11178,-84.834393
+
+URL: https://what3words.com/Washed.Frost.Rocked
+Extracted Coordinates: 37.56281,127.034779
+
+URL: https://what3words.com/Washed.Frost.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Frost.Lives
+Extracted Coordinates: 29.332377,-98.575127
+
+URL: https://what3words.com/Washed.Frost.Handy
+Extracted Coordinates: 47.331164,-98.177222
+
+URL: https://what3words.com/Washed.Frost.Robot
+Extracted Coordinates: 39.386791,-123.356627
+
+URL: https://what3words.com/Washed.Frost.Chest
+Extracted Coordinates: 51.565451,-0.087604
+
+URL: https://what3words.com/Washed.Frost.Dawn
+Extracted Coordinates: 38.047529,-78.494676
+
+URL: https://what3words.com/Washed.Frost.Turkey
+Extracted Coordinates: 41.49783,-82.097564
+
+URL: https://what3words.com/Washed.Frost.Diet
+Extracted Coordinates: 35.856714,140.198806
+
+URL: https://what3words.com/Washed.Frost.Parrot
+Extracted Coordinates: 35.354908,128.642146
+
+URL: https://what3words.com/Washed.Frost.Chickens
+Extracted Coordinates: -16.74209,-43.926985
+
+URL: https://what3words.com/Washed.Frost.Locker
+Extracted Coordinates: -37.619623,145.072559
+
+URL: https://what3words.com/Washed.Frost.Cannonball
+Extracted Coordinates: 59.226997,-6.483307
+
+URL: https://what3words.com/Washed.Robot.Misfits
+Extracted Coordinates: 33.675682,-117.626118
+
+URL: https://what3words.com/Washed.Robot.Shady
+Extracted Coordinates: 54.544537,-5.946917
+
+URL: https://what3words.com/Washed.Robot.Goat
+Extracted Coordinates: 32.666707,-117.205051
+
+URL: https://what3words.com/Washed.Robot.Rocked
+Extracted Coordinates: 40.343588,27.932
+
+URL: https://what3words.com/Washed.Robot.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Robot.Lives
+Extracted Coordinates: 41.388866,-75.721581
+
+URL: https://what3words.com/Washed.Robot.Handy
+Extracted Coordinates: 38.512654,-89.968621
+
+URL: https://what3words.com/Washed.Robot.Chest
+Extracted Coordinates: 44.955274,-89.631837
+
+URL: https://what3words.com/Washed.Robot.Dawn
+Extracted Coordinates: -37.730878,144.649669
+
+URL: https://what3words.com/Washed.Robot.Turkey
+Extracted Coordinates: 52.469424,-1.81033
+
+URL: https://what3words.com/Washed.Robot.Diet
+Extracted Coordinates: 46.054159,18.27404
+
+URL: https://what3words.com/Washed.Robot.Parrot
+Extracted Coordinates: 31.302353,121.090735
+
+URL: https://what3words.com/Washed.Robot.Chickens
+Extracted Coordinates: 46.955355,122.969017
+
+URL: https://what3words.com/Washed.Robot.Locker
+Extracted Coordinates: 40.811867,-73.057675
+
+URL: https://what3words.com/Washed.Robot.Cannonball
+Extracted Coordinates: 49.905738,150.134276
+
+URL: https://what3words.com/Washed.Misfits.Shady
+Extracted Coordinates: 21.520011,39.872407
+
+URL: https://what3words.com/Washed.Misfits.Goat
+Extracted Coordinates: 51.598952,5.181662
+
+URL: https://what3words.com/Washed.Misfits.Rocked
+Extracted Coordinates: 39.64776,2.699177
+
+URL: https://what3words.com/Washed.Misfits.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Misfits.Lives
+Extracted Coordinates: 53.862778,13.696373
+
+URL: https://what3words.com/Washed.Misfits.Handy
+Extracted Coordinates: 38.077714,116.512959
+
+URL: https://what3words.com/Washed.Misfits.Robot
+Extracted Coordinates: 54.920319,82.969149
+
+URL: https://what3words.com/Washed.Misfits.Chest
+Extracted Coordinates: 25.350542,-101.067362
+
+URL: https://what3words.com/Washed.Misfits.Dawn
+Extracted Coordinates: 50.036263,14.276414
+
+URL: https://what3words.com/Washed.Misfits.Turkey
+Extracted Coordinates: 52.991254,63.128338
+
+URL: https://what3words.com/Washed.Misfits.Diet
+Extracted Coordinates: -45.894661,-67.561841
+
+URL: https://what3words.com/Washed.Misfits.Parrot
+Extracted Coordinates: 48.423849,2.09998
+
+URL: https://what3words.com/Washed.Misfits.Chickens
+Extracted Coordinates: -36.754407,144.295891
+
+URL: https://what3words.com/Washed.Misfits.Locker
+Extracted Coordinates: -32.792866,-68.798194
+
+URL: https://what3words.com/Washed.Misfits.Cannonball
+Extracted Coordinates: 67.582889,41.58584
+
+URL: https://what3words.com/Washed.Shady.Goat
+Extracted Coordinates: 39.894338,-80.178348
+
+URL: https://what3words.com/Washed.Shady.Rocked
+Extracted Coordinates: 10.484948,-67.122053
+
+URL: https://what3words.com/Washed.Shady.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Shady.Lives
+Extracted Coordinates: 34.1566,-118.263666
+
+URL: https://what3words.com/Washed.Shady.Handy
+Extracted Coordinates: 51.613721,-3.814171
+
+URL: https://what3words.com/Washed.Shady.Robot
+Extracted Coordinates: 40.127682,-75.525561
+
+URL: https://what3words.com/Washed.Shady.Chest
+Extracted Coordinates: 35.016238,-89.903551
+
+URL: https://what3words.com/Washed.Shady.Dawn
+Extracted Coordinates: 38.955086,-77.175697
+
+URL: https://what3words.com/Washed.Shady.Turkey
+Extracted Coordinates: 42.113721,-91.273485
+
+URL: https://what3words.com/Washed.Shady.Diet
+Extracted Coordinates: 53.862185,9.96293
+
+URL: https://what3words.com/Washed.Shady.Parrot
+Extracted Coordinates: 9.943712,-84.150638
+
+URL: https://what3words.com/Washed.Shady.Chickens
+Extracted Coordinates: 25.971715,-98.073749
+
+URL: https://what3words.com/Washed.Shady.Locker
+Extracted Coordinates: 29.746267,-95.210305
+
+URL: https://what3words.com/Washed.Shady.Cannonball
+Extracted Coordinates: 75.482414,-136.887543
+
+URL: https://what3words.com/Washed.Goat.Rocked
+Extracted Coordinates: 49.480555,0.96267
+
+URL: https://what3words.com/Washed.Goat.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Goat.Lives
+Extracted Coordinates: 32.814158,-96.784369
+
+URL: https://what3words.com/Washed.Goat.Handy
+Extracted Coordinates: 50.771278,-1.058107
+
+URL: https://what3words.com/Washed.Goat.Robot
+Extracted Coordinates: 39.826905,-88.847883
+
+URL: https://what3words.com/Washed.Goat.Chest
+Extracted Coordinates: 53.463899,-2.374253
+
+URL: https://what3words.com/Washed.Goat.Dawn
+Extracted Coordinates: 38.612643,-107.980598
+
+URL: https://what3words.com/Washed.Goat.Turkey
+Extracted Coordinates: 41.729611,-87.99944
+
+URL: https://what3words.com/Washed.Goat.Diet
+Extracted Coordinates: -21.142208,149.158064
+
+URL: https://what3words.com/Washed.Goat.Parrot
+Extracted Coordinates: 25.105986,121.322328
+
+URL: https://what3words.com/Washed.Goat.Chickens
+Extracted Coordinates: 1.425655,103.882187
+
+URL: https://what3words.com/Washed.Goat.Locker
+Extracted Coordinates: -31.971176,115.986
+
+URL: https://what3words.com/Washed.Goat.Cannonball
+Extracted Coordinates: 62.079628,-52.053781
+
+URL: https://what3words.com/Washed.Rocked.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Rocked.Lives
+Extracted Coordinates: 56.888381,24.217195
+
+URL: https://what3words.com/Washed.Rocked.Handy
+Extracted Coordinates: 45.842375,5.026894
+
+URL: https://what3words.com/Washed.Rocked.Robot
+Extracted Coordinates: 47.195922,27.535694
+
+URL: https://what3words.com/Washed.Rocked.Chest
+Extracted Coordinates: 6.667812,3.597598
+
+URL: https://what3words.com/Washed.Rocked.Dawn
+Extracted Coordinates: 47.686867,17.698738
+
+URL: https://what3words.com/Washed.Rocked.Turkey
+Extracted Coordinates: 6.516858,101.267223
+
+URL: https://what3words.com/Washed.Rocked.Diet
+Extracted Coordinates: -36.9684,174.828222
+
+URL: https://what3words.com/Washed.Rocked.Parrot
+Extracted Coordinates: 42.321461,-5.883184
+
+URL: https://what3words.com/Washed.Rocked.Chickens
+Extracted Coordinates: 49.849464,19.028886
+
+URL: https://what3words.com/Washed.Rocked.Locker
+Extracted Coordinates: 36.399404,47.084053
+
+URL: https://what3words.com/Washed.Rocked.Cannonball
+Extracted Coordinates: 46.147787,-164.581913
+
+URL: https://what3words.com/Washed.Skull.Lives
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Skull.Handy
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Skull.Robot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Skull.Chest
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Skull.Dawn
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Skull.Turkey
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Skull.Diet
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Skull.Parrot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Skull.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Skull.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Skull.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Washed.Lives.Handy
+Extracted Coordinates: 35.322539,-118.987064
+
+URL: https://what3words.com/Washed.Lives.Robot
+Extracted Coordinates: 53.709937,-0.245145
+
+URL: https://what3words.com/Washed.Lives.Chest
+Extracted Coordinates: 41.681827,-70.35812
+
+URL: https://what3words.com/Washed.Lives.Dawn
+Extracted Coordinates: 61.162341,-149.781529
+
+URL: https://what3words.com/Washed.Lives.Turkey
+Extracted Coordinates: 34.070976,-118.223779
+
+URL: https://what3words.com/Washed.Lives.Diet
+Extracted Coordinates: 48.746618,9.192938
+
+URL: https://what3words.com/Washed.Lives.Parrot
+Extracted Coordinates: 41.411479,-8.728735
+
+URL: https://what3words.com/Washed.Lives.Chickens
+Extracted Coordinates: -22.727186,-45.143933
+
+URL: https://what3words.com/Washed.Lives.Locker
+Extracted Coordinates: 38.830086,-77.263272
+
+URL: https://what3words.com/Washed.Lives.Cannonball
+Extracted Coordinates: 43.07793,-37.942667
+
+URL: https://what3words.com/Washed.Handy.Robot
+Extracted Coordinates: 17.936274,-76.844799
+
+URL: https://what3words.com/Washed.Handy.Chest
+Extracted Coordinates: 42.116497,-77.249546
+
+URL: https://what3words.com/Washed.Handy.Dawn
+Extracted Coordinates: 51.513678,-3.14063
+
+URL: https://what3words.com/Washed.Handy.Turkey
+Extracted Coordinates: 39.96398,-75.079902
+
+URL: https://what3words.com/Washed.Handy.Diet
+Extracted Coordinates: -9.580113,16.33116
+
+URL: https://what3words.com/Washed.Handy.Parrot
+Extracted Coordinates: 34.823806,135.448499
+
+URL: https://what3words.com/Washed.Handy.Chickens
+Extracted Coordinates: 6.393475,-10.780721
+
+URL: https://what3words.com/Washed.Handy.Locker
+Extracted Coordinates: 39.139756,-84.534798
+
+URL: https://what3words.com/Washed.Handy.Cannonball
+Extracted Coordinates: 72.935438,139.325745
+
+URL: https://what3words.com/Washed.Robot.Chest
+Extracted Coordinates: 44.955274,-89.631837
+
+URL: https://what3words.com/Washed.Robot.Dawn
+Extracted Coordinates: -37.730878,144.649669
+
+URL: https://what3words.com/Washed.Robot.Turkey
+Extracted Coordinates: 52.469424,-1.81033
+
+URL: https://what3words.com/Washed.Robot.Diet
+Extracted Coordinates: 46.054159,18.27404
+
+URL: https://what3words.com/Washed.Robot.Parrot
+Extracted Coordinates: 31.302353,121.090735
+
+URL: https://what3words.com/Washed.Robot.Chickens
+Extracted Coordinates: 46.955355,122.969017
+
+URL: https://what3words.com/Washed.Robot.Locker
+Extracted Coordinates: 40.811867,-73.057675
+
+URL: https://what3words.com/Washed.Robot.Cannonball
+Extracted Coordinates: 49.905738,150.134276
+
+URL: https://what3words.com/Washed.Chest.Dawn
+Extracted Coordinates: 35.279741,-80.796867
+
+URL: https://what3words.com/Washed.Chest.Turkey
+Extracted Coordinates: 39.771709,-89.583947
+
+URL: https://what3words.com/Washed.Chest.Diet
+Extracted Coordinates: -22.973952,-47.203429
+
+URL: https://what3words.com/Washed.Chest.Parrot
+Extracted Coordinates: 11.065909,-74.876057
+
+URL: https://what3words.com/Washed.Chest.Chickens
+Extracted Coordinates: 41.218912,121.160696
+
+URL: https://what3words.com/Washed.Chest.Locker
+Extracted Coordinates: 51.279256,-1.074565
+
+URL: https://what3words.com/Washed.Chest.Cannonball
+Extracted Coordinates: 62.241632,-52.936661
+
+URL: https://what3words.com/Washed.Dawn.Turkey
+Extracted Coordinates: 35.710853,-84.362699
+
+URL: https://what3words.com/Washed.Dawn.Diet
+Extracted Coordinates: 33.128436,129.635417
+
+URL: https://what3words.com/Washed.Dawn.Parrot
+Extracted Coordinates: 39.834964,32.975741
+
+URL: https://what3words.com/Washed.Dawn.Chickens
+Extracted Coordinates: 14.6963,121.180086
+
+URL: https://what3words.com/Washed.Dawn.Locker
+Extracted Coordinates: 41.676733,-83.57826
+
+URL: https://what3words.com/Washed.Dawn.Cannonball
+Extracted Coordinates: 71.622642,-92.177575
+
+URL: https://what3words.com/Washed.Turkey.Diet
+Extracted Coordinates: 46.625094,142.771776
+
+URL: https://what3words.com/Washed.Turkey.Parrot
+Extracted Coordinates: 52.164955,23.673281
+
+URL: https://what3words.com/Washed.Turkey.Chickens
+Extracted Coordinates: 35.942958,105.00881
+
+URL: https://what3words.com/Washed.Turkey.Locker
+Extracted Coordinates: 42.642559,-83.173025
+
+URL: https://what3words.com/Washed.Turkey.Cannonball
+Extracted Coordinates: 40.169968,-165.928891
+
+URL: https://what3words.com/Washed.Diet.Parrot
+Extracted Coordinates: -22.176275,-45.91738
+
+URL: https://what3words.com/Washed.Diet.Chickens
+Extracted Coordinates: 10.265268,-66.864987
+
+URL: https://what3words.com/Washed.Diet.Locker
+Extracted Coordinates: 32.262734,-110.954492
+
+URL: https://what3words.com/Washed.Diet.Cannonball
+Extracted Coordinates: 47.321596,149.037432
+
+URL: https://what3words.com/Washed.Parrot.Chickens
+Extracted Coordinates: 19.417219,-99.109943
+
+URL: https://what3words.com/Washed.Parrot.Locker
+Extracted Coordinates: 4.598197,-74.405459
+
+URL: https://what3words.com/Washed.Parrot.Cannonball
+Extracted Coordinates: 55.184764,146.407526
+
+URL: https://what3words.com/Washed.Chickens.Locker
+Extracted Coordinates: 40.417004,-3.87477
+
+URL: https://what3words.com/Washed.Chickens.Cannonball
+Extracted Coordinates: 39.481094,-135.884447
+
+URL: https://what3words.com/Washed.Locker.Cannonball
+Extracted Coordinates: 58.752924,-11.914664
+
+URL: https://what3words.com/Frost.Robot.Misfits
+Extracted Coordinates: 30.627466,114.203274
+
+URL: https://what3words.com/Frost.Robot.Shady
+Extracted Coordinates: 53.438214,-3.126517
+
+URL: https://what3words.com/Frost.Robot.Goat
+Extracted Coordinates: 53.353345,-6.120413
+
+URL: https://what3words.com/Frost.Robot.Rocked
+Extracted Coordinates: 44.086015,10.06616
+
+URL: https://what3words.com/Frost.Robot.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Robot.Lives
+Extracted Coordinates: 40.242171,-111.675759
+
+URL: https://what3words.com/Frost.Robot.Handy
+Extracted Coordinates: 36.740958,-97.075649
+
+URL: https://what3words.com/Frost.Robot.Chest
+Extracted Coordinates: 42.516912,-83.185817
+
+URL: https://what3words.com/Frost.Robot.Dawn
+Extracted Coordinates: 52.789093,0.412099
+
+URL: https://what3words.com/Frost.Robot.Turkey
+Extracted Coordinates: 50.469208,-3.497732
+
+URL: https://what3words.com/Frost.Robot.Diet
+Extracted Coordinates: 31.258126,121.633343
+
+URL: https://what3words.com/Frost.Robot.Parrot
+Extracted Coordinates: -23.373019,-47.840513
+
+URL: https://what3words.com/Frost.Robot.Chickens
+Extracted Coordinates: 6.886522,122.082695
+
+URL: https://what3words.com/Frost.Robot.Locker
+Extracted Coordinates: 43.2184,-75.499833
+
+URL: https://what3words.com/Frost.Robot.Cannonball
+Extracted Coordinates: 58.53885,-81.319315
+
+URL: https://what3words.com/Frost.Misfits.Shady
+Extracted Coordinates: 14.373073,121.12031
+
+URL: https://what3words.com/Frost.Misfits.Goat
+Extracted Coordinates: 17.99368,-95.396528
+
+URL: https://what3words.com/Frost.Misfits.Rocked
+Extracted Coordinates: -34.790845,-58.210123
+
+URL: https://what3words.com/Frost.Misfits.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Misfits.Lives
+Extracted Coordinates: 53.257506,63.572939
+
+URL: https://what3words.com/Frost.Misfits.Handy
+Extracted Coordinates: -34.705167,-58.642194
+
+URL: https://what3words.com/Frost.Misfits.Robot
+Extracted Coordinates: 45.637438,-73.85245
+
+URL: https://what3words.com/Frost.Misfits.Chest
+Extracted Coordinates: 35.400995,140.032159
+
+URL: https://what3words.com/Frost.Misfits.Dawn
+Extracted Coordinates: 6.680991,3.194938
+
+URL: https://what3words.com/Frost.Misfits.Turkey
+Extracted Coordinates: 35.708374,140.563662
+
+URL: https://what3words.com/Frost.Misfits.Diet
+Extracted Coordinates: 43.76764,87.728999
+
+URL: https://what3words.com/Frost.Misfits.Parrot
+Extracted Coordinates: 27.860244,-101.102413
+
+URL: https://what3words.com/Frost.Misfits.Chickens
+Extracted Coordinates: 36.979369,105.91584
+
+URL: https://what3words.com/Frost.Misfits.Locker
+Extracted Coordinates: 59.382587,13.533857
+
+URL: https://what3words.com/Frost.Misfits.Cannonball
+Extracted Coordinates: 78.966001,37.043008
+
+URL: https://what3words.com/Frost.Shady.Goat
+Extracted Coordinates: 41.006886,-78.443557
+
+URL: https://what3words.com/Frost.Shady.Rocked
+Extracted Coordinates: 35.94665,114.661554
+
+URL: https://what3words.com/Frost.Shady.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Shady.Lives
+Extracted Coordinates: 41.935816,-87.848207
+
+URL: https://what3words.com/Frost.Shady.Handy
+Extracted Coordinates: 55.934603,-4.580901
+
+URL: https://what3words.com/Frost.Shady.Robot
+Extracted Coordinates: 41.281897,-72.948805
+
+URL: https://what3words.com/Frost.Shady.Chest
+Extracted Coordinates: 36.503787,-82.725124
+
+URL: https://what3words.com/Frost.Shady.Dawn
+Extracted Coordinates: 40.025968,-75.388613
+
+URL: https://what3words.com/Frost.Shady.Turkey
+Extracted Coordinates: 42.655361,-71.319793
+
+URL: https://what3words.com/Frost.Shady.Diet
+Extracted Coordinates: 54.357819,18.721319
+
+URL: https://what3words.com/Frost.Shady.Parrot
+Extracted Coordinates: 45.810007,2.967715
+
+URL: https://what3words.com/Frost.Shady.Chickens
+Extracted Coordinates: 40.486214,49.758989
+
+URL: https://what3words.com/Frost.Shady.Locker
+Extracted Coordinates: 41.487885,-71.32871
+
+URL: https://what3words.com/Frost.Shady.Cannonball
+Extracted Coordinates: 38.84127,-153.054811
+
+URL: https://what3words.com/Frost.Goat.Rocked
+Extracted Coordinates: 54.52559,30.353377
+
+URL: https://what3words.com/Frost.Goat.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Goat.Lives
+Extracted Coordinates: 41.561759,-90.51613
+
+URL: https://what3words.com/Frost.Goat.Handy
+Extracted Coordinates: 38.768879,-87.307175
+
+URL: https://what3words.com/Frost.Goat.Robot
+Extracted Coordinates: 37.697944,-122.478349
+
+URL: https://what3words.com/Frost.Goat.Chest
+Extracted Coordinates: 45.628167,-122.631231
+
+URL: https://what3words.com/Frost.Goat.Dawn
+Extracted Coordinates: -33.849652,151.220528
+
+URL: https://what3words.com/Frost.Goat.Turkey
+Extracted Coordinates: 47.527531,-120.497186
+
+URL: https://what3words.com/Frost.Goat.Diet
+Extracted Coordinates: 24.978426,121.316931
+
+URL: https://what3words.com/Frost.Goat.Parrot
+Extracted Coordinates: 42.972281,141.563016
+
+URL: https://what3words.com/Frost.Goat.Chickens
+Extracted Coordinates: 52.231821,20.886254
+
+URL: https://what3words.com/Frost.Goat.Locker
+Extracted Coordinates: 42.943389,-88.863229
+
+URL: https://what3words.com/Frost.Goat.Cannonball
+Extracted Coordinates: 75.796073,88.166501
+
+URL: https://what3words.com/Frost.Rocked.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Rocked.Lives
+Extracted Coordinates: -2.123639,-80.039683
+
+URL: https://what3words.com/Frost.Rocked.Handy
+Extracted Coordinates: -20.044645,-44.591698
+
+URL: https://what3words.com/Frost.Rocked.Robot
+Extracted Coordinates: 48.464626,2.711365
+
+URL: https://what3words.com/Frost.Rocked.Chest
+Extracted Coordinates: 43.811516,142.254802
+
+URL: https://what3words.com/Frost.Rocked.Dawn
+Extracted Coordinates: -6.36682,106.464179
+
+URL: https://what3words.com/Frost.Rocked.Turkey
+Extracted Coordinates: 48.077229,0.134902
+
+URL: https://what3words.com/Frost.Rocked.Diet
+Extracted Coordinates: 42.068901,-4.555271
+
+URL: https://what3words.com/Frost.Rocked.Parrot
+Extracted Coordinates: 52.479423,13.645523
+
+URL: https://what3words.com/Frost.Rocked.Chickens
+Extracted Coordinates: -22.761037,-42.934196
+
+URL: https://what3words.com/Frost.Rocked.Locker
+Extracted Coordinates: 34.459775,132.340839
+
+URL: https://what3words.com/Frost.Rocked.Cannonball
+Extracted Coordinates: 54.197566,-43.216146
+
+URL: https://what3words.com/Frost.Skull.Lives
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Skull.Handy
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Skull.Robot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Skull.Chest
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Skull.Dawn
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Skull.Turkey
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Skull.Diet
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Skull.Parrot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Skull.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Skull.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Skull.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Frost.Lives.Handy
+Extracted Coordinates: 42.030549,-87.709477
+
+URL: https://what3words.com/Frost.Lives.Robot
+Extracted Coordinates: 46.586177,-111.950859
+
+URL: https://what3words.com/Frost.Lives.Chest
+Extracted Coordinates: 40.183067,-74.773232
+
+URL: https://what3words.com/Frost.Lives.Dawn
+Extracted Coordinates: 42.871914,-78.89462
+
+URL: https://what3words.com/Frost.Lives.Turkey
+Extracted Coordinates: 38.083023,-122.154803
+
+URL: https://what3words.com/Frost.Lives.Diet
+Extracted Coordinates: 40.950585,-8.596347
+
+URL: https://what3words.com/Frost.Lives.Parrot
+Extracted Coordinates: 50.736107,4.511098
+
+URL: https://what3words.com/Frost.Lives.Chickens
+Extracted Coordinates: 19.078981,-99.457806
+
+URL: https://what3words.com/Frost.Lives.Locker
+Extracted Coordinates: 36.082215,-79.849096
+
+URL: https://what3words.com/Frost.Lives.Cannonball
+Extracted Coordinates: 50.002709,-165.925877
+
+URL: https://what3words.com/Frost.Handy.Robot
+Extracted Coordinates: 38.23201,-82.422004
+
+URL: https://what3words.com/Frost.Handy.Chest
+Extracted Coordinates: 40.619003,-73.960234
+
+URL: https://what3words.com/Frost.Handy.Dawn
+Extracted Coordinates: 36.142747,-97.059812
+
+URL: https://what3words.com/Frost.Handy.Turkey
+Extracted Coordinates: 51.496914,0.406597
+
+URL: https://what3words.com/Frost.Handy.Diet
+Extracted Coordinates: 34.696246,135.512769
+
+URL: https://what3words.com/Frost.Handy.Parrot
+Extracted Coordinates: 43.784376,87.68315
+
+URL: https://what3words.com/Frost.Handy.Chickens
+Extracted Coordinates: 36.282975,139.140734
+
+URL: https://what3words.com/Frost.Handy.Locker
+Extracted Coordinates: 39.662772,-104.893225
+
+URL: https://what3words.com/Frost.Handy.Cannonball
+Extracted Coordinates: 37.585961,164.872872
+
+URL: https://what3words.com/Frost.Robot.Chest
+Extracted Coordinates: 42.516912,-83.185817
+
+URL: https://what3words.com/Frost.Robot.Dawn
+Extracted Coordinates: 52.789093,0.412099
+
+URL: https://what3words.com/Frost.Robot.Turkey
+Extracted Coordinates: 50.469208,-3.497732
+
+URL: https://what3words.com/Frost.Robot.Diet
+Extracted Coordinates: 31.258126,121.633343
+
+URL: https://what3words.com/Frost.Robot.Parrot
+Extracted Coordinates: -23.373019,-47.840513
+
+URL: https://what3words.com/Frost.Robot.Chickens
+Extracted Coordinates: 6.886522,122.082695
+
+URL: https://what3words.com/Frost.Robot.Locker
+Extracted Coordinates: 43.2184,-75.499833
+
+URL: https://what3words.com/Frost.Robot.Cannonball
+Extracted Coordinates: 58.53885,-81.319315
+
+URL: https://what3words.com/Frost.Chest.Dawn
+Extracted Coordinates: 51.831757,0.051942
+
+URL: https://what3words.com/Frost.Chest.Turkey
+Extracted Coordinates: 40.649431,-111.881127
+
+URL: https://what3words.com/Frost.Chest.Diet
+Extracted Coordinates: 10.896682,-74.872049
+
+URL: https://what3words.com/Frost.Chest.Parrot
+Extracted Coordinates: 56.723871,60.450005
+
+URL: https://what3words.com/Frost.Chest.Chickens
+Extracted Coordinates: -11.849922,-77.0587
+
+URL: https://what3words.com/Frost.Chest.Locker
+Extracted Coordinates: 39.273623,-84.532522
+
+URL: https://what3words.com/Frost.Chest.Cannonball
+Extracted Coordinates: 75.958077,164.5945
+
+URL: https://what3words.com/Frost.Dawn.Turkey
+Extracted Coordinates: 43.504946,-84.693707
+
+URL: https://what3words.com/Frost.Dawn.Diet
+Extracted Coordinates: 39.707404,32.779104
+
+URL: https://what3words.com/Frost.Dawn.Parrot
+Extracted Coordinates: 48.076259,-0.742114
+
+URL: https://what3words.com/Frost.Dawn.Chickens
+Extracted Coordinates: -27.039201,-50.954324
+
+URL: https://what3words.com/Frost.Dawn.Locker
+Extracted Coordinates: 41.96247,-88.701208
+
+URL: https://what3words.com/Frost.Dawn.Cannonball
+Extracted Coordinates: 83.672421,-134.753821
+
+URL: https://what3words.com/Frost.Turkey.Diet
+Extracted Coordinates: 1.120728,104.032484
+
+URL: https://what3words.com/Frost.Turkey.Parrot
+Extracted Coordinates: -29.177083,-58.074144
+
+URL: https://what3words.com/Frost.Turkey.Chickens
+Extracted Coordinates: 41.207457,123.766534
+
+URL: https://what3words.com/Frost.Turkey.Locker
+Extracted Coordinates: 52.704439,-2.712669
+
+URL: https://what3words.com/Frost.Turkey.Cannonball
+Extracted Coordinates: 46.261414,-55.326877
+
+URL: https://what3words.com/Frost.Diet.Parrot
+Extracted Coordinates: 4.55397,-73.779432
+
+URL: https://what3words.com/Frost.Diet.Chickens
+Extracted Coordinates: 56.162179,92.982457
+
+URL: https://what3words.com/Frost.Diet.Locker
+Extracted Coordinates: 17.326313,-62.731285
+
+URL: https://what3words.com/Frost.Diet.Cannonball
+Extracted Coordinates: 55.579708,-163.811904
+
+URL: https://what3words.com/Frost.Parrot.Chickens
+Extracted Coordinates: -25.984948,28.300171
+
+URL: https://what3words.com/Frost.Parrot.Locker
+Extracted Coordinates: 52.490769,9.64601
+
+URL: https://what3words.com/Frost.Parrot.Cannonball
+Extracted Coordinates: 67.90121,-58.933699
+
+URL: https://what3words.com/Frost.Chickens.Locker
+Extracted Coordinates: -12.781277,15.727425
+
+URL: https://what3words.com/Frost.Chickens.Cannonball
+Extracted Coordinates: 45.322539,-60.80399
+
+URL: https://what3words.com/Frost.Locker.Cannonball
+Extracted Coordinates: 73.052703,-49.242269
+
+URL: https://what3words.com/Robot.Misfits.Shady
+Extracted Coordinates: 43.235406,27.956317
+
+URL: https://what3words.com/Robot.Misfits.Goat
+Extracted Coordinates: 38.481013,26.939342
+
+URL: https://what3words.com/Robot.Misfits.Rocked
+Extracted Coordinates: 5.946488,102.217754
+
+URL: https://what3words.com/Robot.Misfits.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Robot.Misfits.Lives
+Extracted Coordinates: 23.244839,112.918295
+
+URL: https://what3words.com/Robot.Misfits.Handy
+Extracted Coordinates: -1.551167,-48.493379
+
+URL: https://what3words.com/Robot.Misfits.Chest
+Extracted Coordinates: 38.013327,13.383234
+
+URL: https://what3words.com/Robot.Misfits.Dawn
+Extracted Coordinates: 31.918324,54.424279
+
+URL: https://what3words.com/Robot.Misfits.Turkey
+Extracted Coordinates: 51.320707,7.427989
+
+URL: https://what3words.com/Robot.Misfits.Diet
+Extracted Coordinates: 33.880997,50.472736
+
+URL: https://what3words.com/Robot.Misfits.Parrot
+Extracted Coordinates: -38.06909,-57.64823
+
+URL: https://what3words.com/Robot.Misfits.Chickens
+Extracted Coordinates: 20.827741,-105.168152
+
+URL: https://what3words.com/Robot.Misfits.Locker
+Extracted Coordinates: 38.078253,140.726359
+
+URL: https://what3words.com/Robot.Misfits.Cannonball
+Extracted Coordinates: 71.156762,-57.307072
+
+URL: https://what3words.com/Robot.Shady.Goat
+Extracted Coordinates: 42.079439,-87.776755
+
+URL: https://what3words.com/Robot.Shady.Rocked
+Extracted Coordinates: 42.901102,141.567377
+
+URL: https://what3words.com/Robot.Shady.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Robot.Shady.Lives
+Extracted Coordinates: 42.801598,-106.364142
+
+URL: https://what3words.com/Robot.Shady.Handy
+Extracted Coordinates: 40.008719,-81.593459
+
+URL: https://what3words.com/Robot.Shady.Chest
+Extracted Coordinates: 52.618006,-1.067542
+
+URL: https://what3words.com/Robot.Shady.Dawn
+Extracted Coordinates: 38.84852,-77.120307
+
+URL: https://what3words.com/Robot.Shady.Turkey
+Extracted Coordinates: 52.035374,-2.726144
+
+URL: https://what3words.com/Robot.Shady.Diet
+Extracted Coordinates: 47.429509,18.879047
+
+URL: https://what3words.com/Robot.Shady.Parrot
+Extracted Coordinates: 37.716217,26.690245
+
+URL: https://what3words.com/Robot.Shady.Chickens
+Extracted Coordinates: 36.126253,137.956347
+
+URL: https://what3words.com/Robot.Shady.Locker
+Extracted Coordinates: 36.010471,-120.124683
+
+URL: https://what3words.com/Robot.Shady.Cannonball
+Extracted Coordinates: 78.139621,-49.468914
+
+URL: https://what3words.com/Robot.Goat.Rocked
+Extracted Coordinates: 35.657651,106.951881
+
+URL: https://what3words.com/Robot.Goat.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Robot.Goat.Lives
+Extracted Coordinates: 38.896116,-94.785242
+
+URL: https://what3words.com/Robot.Goat.Handy
+Extracted Coordinates: 40.883827,-111.894852
+
+URL: https://what3words.com/Robot.Goat.Chest
+Extracted Coordinates: 41.295858,-81.731069
+
+URL: https://what3words.com/Robot.Goat.Dawn
+Extracted Coordinates: 45.693038,-111.018169
+
+URL: https://what3words.com/Robot.Goat.Turkey
+Extracted Coordinates: -34.092456,151.106299
+
+URL: https://what3words.com/Robot.Goat.Diet
+Extracted Coordinates: 51.258449,12.42983
+
+URL: https://what3words.com/Robot.Goat.Parrot
+Extracted Coordinates: 40.420157,141.459627
+
+URL: https://what3words.com/Robot.Goat.Chickens
+Extracted Coordinates: 33.830194,-84.292364
+
+URL: https://what3words.com/Robot.Goat.Locker
+Extracted Coordinates: 38.507641,-90.018766
+
+URL: https://what3words.com/Robot.Goat.Cannonball
+Extracted Coordinates: 66.736834,-81.415335
+
+URL: https://what3words.com/Robot.Rocked.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Robot.Rocked.Lives
+Extracted Coordinates: 21.653258,39.332274
+
+URL: https://what3words.com/Robot.Rocked.Handy
+Extracted Coordinates: 25.732253,-80.353194
+
+URL: https://what3words.com/Robot.Rocked.Chest
+Extracted Coordinates: 39.891023,116.504796
+
+URL: https://what3words.com/Robot.Rocked.Dawn
+Extracted Coordinates: -23.839923,-46.679715
+
+URL: https://what3words.com/Robot.Rocked.Turkey
+Extracted Coordinates: 14.740068,120.456703
+
+URL: https://what3words.com/Robot.Rocked.Diet
+Extracted Coordinates: 48.057258,8.478723
+
+URL: https://what3words.com/Robot.Rocked.Parrot
+Extracted Coordinates: 35.635632,140.353719
+
+URL: https://what3words.com/Robot.Rocked.Chickens
+Extracted Coordinates: 30.837336,-83.996122
+
+URL: https://what3words.com/Robot.Rocked.Locker
+Extracted Coordinates: 22.830948,114.208553
+
+URL: https://what3words.com/Robot.Rocked.Cannonball
+Extracted Coordinates: 47.929994,-15.361292
+
+URL: https://what3words.com/Robot.Skull.Lives
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Robot.Skull.Handy
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Robot.Skull.Chest
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Robot.Skull.Dawn
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Robot.Skull.Turkey
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Robot.Skull.Diet
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Robot.Skull.Parrot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Robot.Skull.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Robot.Skull.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Robot.Skull.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Robot.Lives.Handy
+Extracted Coordinates: 41.812756,-87.612359
+
+URL: https://what3words.com/Robot.Lives.Chest
+Extracted Coordinates: 41.972739,-88.670166
+
+URL: https://what3words.com/Robot.Lives.Dawn
+Extracted Coordinates: 51.36992,1.379426
+
+URL: https://what3words.com/Robot.Lives.Turkey
+Extracted Coordinates: 40.629703,-80.218226
+
+URL: https://what3words.com/Robot.Lives.Diet
+Extracted Coordinates: 37.730609,127.505745
+
+URL: https://what3words.com/Robot.Lives.Parrot
+Extracted Coordinates: 50.183983,12.134669
+
+URL: https://what3words.com/Robot.Lives.Chickens
+Extracted Coordinates: 59.385686,18.08103
+
+URL: https://what3words.com/Robot.Lives.Locker
+Extracted Coordinates: -37.730096,145.274431
+
+URL: https://what3words.com/Robot.Lives.Cannonball
+Extracted Coordinates: 44.610136,-173.61911
+
+URL: https://what3words.com/Robot.Handy.Chest
+Extracted Coordinates: 40.567823,-89.626402
+
+URL: https://what3words.com/Robot.Handy.Dawn
+Extracted Coordinates: 43.173337,-90.419532
+
+URL: https://what3words.com/Robot.Handy.Turkey
+Extracted Coordinates: 37.37849,-79.181986
+
+URL: https://what3words.com/Robot.Handy.Diet
+Extracted Coordinates: 32.851269,-97.177372
+
+URL: https://what3words.com/Robot.Handy.Parrot
+Extracted Coordinates: 37.107253,122.389458
+
+URL: https://what3words.com/Robot.Handy.Chickens
+Extracted Coordinates: 32.433956,48.40355
+
+URL: https://what3words.com/Robot.Handy.Locker
+Extracted Coordinates: 44.435357,-88.042857
+
+URL: https://what3words.com/Robot.Handy.Cannonball
+Extracted Coordinates: 75.259312,-176.963051
+
+URL: https://what3words.com/Robot.Chest.Dawn
+Extracted Coordinates: 51.411586,-0.024529
+
+URL: https://what3words.com/Robot.Chest.Turkey
+Extracted Coordinates: 42.946111,-78.812537
+
+URL: https://what3words.com/Robot.Chest.Diet
+Extracted Coordinates: 6.093373,102.294581
+
+URL: https://what3words.com/Robot.Chest.Parrot
+Extracted Coordinates: 18.088414,-94.405619
+
+URL: https://what3words.com/Robot.Chest.Chickens
+Extracted Coordinates: -5.918216,-35.269017
+
+URL: https://what3words.com/Robot.Chest.Locker
+Extracted Coordinates: 41.711311,-87.845277
+
+URL: https://what3words.com/Robot.Chest.Cannonball
+Extracted Coordinates: 66.982172,-46.341784
+
+URL: https://what3words.com/Robot.Dawn.Turkey
+Extracted Coordinates: 53.718292,-1.906159
+
+URL: https://what3words.com/Robot.Dawn.Diet
+Extracted Coordinates: 28.404094,36.611034
+
+URL: https://what3words.com/Robot.Dawn.Parrot
+Extracted Coordinates: 37.315802,-6.311042
+
+URL: https://what3words.com/Robot.Dawn.Chickens
+Extracted Coordinates: 37.059172,137.874138
+
+URL: https://what3words.com/Robot.Dawn.Locker
+Extracted Coordinates: 37.068389,-80.784351
+
+URL: https://what3words.com/Robot.Dawn.Cannonball
+Extracted Coordinates: 74.071515,-61.029137
+
+URL: https://what3words.com/Robot.Turkey.Diet
+Extracted Coordinates: 6.150752,-75.610076
+
+URL: https://what3words.com/Robot.Turkey.Parrot
+Extracted Coordinates: 39.354126,116.942242
+
+URL: https://what3words.com/Robot.Turkey.Chickens
+Extracted Coordinates: 55.597496,51.720194
+
+URL: https://what3words.com/Robot.Turkey.Locker
+Extracted Coordinates: 40.852024,-73.243388
+
+URL: https://what3words.com/Robot.Turkey.Cannonball
+Extracted Coordinates: 41.577175,166.112186
+
+URL: https://what3words.com/Robot.Diet.Parrot
+Extracted Coordinates: -14.051895,-75.678466
+
+URL: https://what3words.com/Robot.Diet.Chickens
+Extracted Coordinates: 22.347981,-80.575913
+
+URL: https://what3words.com/Robot.Diet.Locker
+Extracted Coordinates: 38.928781,-9.307387
+
+URL: https://what3words.com/Robot.Diet.Cannonball
+Extracted Coordinates: 49.145469,-155.381615
+
+URL: https://what3words.com/Robot.Parrot.Chickens
+Extracted Coordinates: 36.124367,114.790683
+
+URL: https://what3words.com/Robot.Parrot.Locker
+Extracted Coordinates: 56.26109,37.978123
+
+URL: https://what3words.com/Robot.Parrot.Cannonball
+Extracted Coordinates: 57.258638,-162.268288
+
+URL: https://what3words.com/Robot.Chickens.Locker
+Extracted Coordinates: 45.681207,122.761874
+
+URL: https://what3words.com/Robot.Chickens.Cannonball
+Extracted Coordinates: 40.7633,-57.506357
+
+URL: https://what3words.com/Robot.Locker.Cannonball
+Extracted Coordinates: 61.618464,158.269983
+
+URL: https://what3words.com/Misfits.Shady.Goat
+Extracted Coordinates: 33.738829,-116.928291
+
+URL: https://what3words.com/Misfits.Shady.Rocked
+Extracted Coordinates: 30.537637,-97.64696
+
+URL: https://what3words.com/Misfits.Shady.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Misfits.Shady.Lives
+Extracted Coordinates: 59.210988,18.221282
+
+URL: https://what3words.com/Misfits.Shady.Handy
+Extracted Coordinates: 31.884258,49.27971
+
+URL: https://what3words.com/Misfits.Shady.Robot
+Extracted Coordinates: 40.893529,29.29461
+
+URL: https://what3words.com/Misfits.Shady.Chest
+Extracted Coordinates: -7.051248,-50.056674
+
+URL: https://what3words.com/Misfits.Shady.Dawn
+Extracted Coordinates: 36.717807,137.09771
+
+URL: https://what3words.com/Misfits.Shady.Turkey
+Extracted Coordinates: 55.422798,65.254205
+
+URL: https://what3words.com/Misfits.Shady.Diet
+Extracted Coordinates: 6.225272,-75.474135
+
+URL: https://what3words.com/Misfits.Shady.Parrot
+Extracted Coordinates: 36.074668,103.995246
+
+URL: https://what3words.com/Misfits.Shady.Chickens
+Extracted Coordinates: 41.142855,27.757893
+
+URL: https://what3words.com/Misfits.Shady.Locker
+Extracted Coordinates: -23.027989,-44.350167
+
+URL: https://what3words.com/Misfits.Shady.Cannonball
+Extracted Coordinates: 81.348844,66.394666
+
+URL: https://what3words.com/Misfits.Goat.Rocked
+Extracted Coordinates: 49.864449,8.674594
+
+URL: https://what3words.com/Misfits.Goat.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Misfits.Goat.Lives
+Extracted Coordinates: 40.412799,15.553685
+
+URL: https://what3words.com/Misfits.Goat.Handy
+Extracted Coordinates: 33.78346,-84.394893
+
+URL: https://what3words.com/Misfits.Goat.Robot
+Extracted Coordinates: -30.27966,-57.630946
+
+URL: https://what3words.com/Misfits.Goat.Chest
+Extracted Coordinates: 37.150563,38.829799
+
+URL: https://what3words.com/Misfits.Goat.Dawn
+Extracted Coordinates: 8.586284,-13.22888
+
+URL: https://what3words.com/Misfits.Goat.Turkey
+Extracted Coordinates: 11.041276,-74.90097
+
+URL: https://what3words.com/Misfits.Goat.Diet
+Extracted Coordinates: 27.054212,-109.427068
+
+URL: https://what3words.com/Misfits.Goat.Parrot
+Extracted Coordinates: 34.682204,133.817712
+
+URL: https://what3words.com/Misfits.Goat.Chickens
+Extracted Coordinates: -20.444871,-54.535753
+
+URL: https://what3words.com/Misfits.Goat.Locker
+Extracted Coordinates: 39.715489,116.303083
+
+URL: https://what3words.com/Misfits.Goat.Cannonball
+Extracted Coordinates: 70.52939,-33.576173
+
+URL: https://what3words.com/Misfits.Rocked.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Misfits.Rocked.Lives
+Extracted Coordinates: 56.646197,84.771103
+
+URL: https://what3words.com/Misfits.Rocked.Handy
+Extracted Coordinates: 24.683525,46.550139
+
+URL: https://what3words.com/Misfits.Rocked.Robot
+Extracted Coordinates: 40.912071,122.836704
+
+URL: https://what3words.com/Misfits.Rocked.Chest
+Extracted Coordinates: 37.467295,114.634873
+
+URL: https://what3words.com/Misfits.Rocked.Dawn
+Extracted Coordinates: -38.555317,-58.679377
+
+URL: https://what3words.com/Misfits.Rocked.Turkey
+Extracted Coordinates: 27.055398,-82.201989
+
+URL: https://what3words.com/Misfits.Rocked.Diet
+Extracted Coordinates: 19.853021,-90.540105
+
+URL: https://what3words.com/Misfits.Rocked.Parrot
+Extracted Coordinates: 47.123935,21.209383
+
+URL: https://what3words.com/Misfits.Rocked.Chickens
+Extracted Coordinates: -23.479396,-51.761953
+
+URL: https://what3words.com/Misfits.Rocked.Locker
+Extracted Coordinates: 36.198887,120.08883
+
+URL: https://what3words.com/Misfits.Rocked.Cannonball
+Extracted Coordinates: 49.680883,-25.680396
+
+URL: https://what3words.com/Misfits.Skull.Lives
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Misfits.Skull.Handy
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Misfits.Skull.Robot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Misfits.Skull.Chest
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Misfits.Skull.Dawn
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Misfits.Skull.Turkey
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Misfits.Skull.Diet
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Misfits.Skull.Parrot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Misfits.Skull.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Misfits.Skull.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Misfits.Skull.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Misfits.Lives.Handy
+Extracted Coordinates: 32.907328,59.260994
+
+URL: https://what3words.com/Misfits.Lives.Robot
+Extracted Coordinates: 41.166599,29.119291
+
+URL: https://what3words.com/Misfits.Lives.Chest
+Extracted Coordinates: -5.111511,-42.87875
+
+URL: https://what3words.com/Misfits.Lives.Dawn
+Extracted Coordinates: 37.657544,139.042126
+
+URL: https://what3words.com/Misfits.Lives.Turkey
+Extracted Coordinates: 55.779202,49.296533
+
+URL: https://what3words.com/Misfits.Lives.Diet
+Extracted Coordinates: 38.734705,41.50482
+
+URL: https://what3words.com/Misfits.Lives.Parrot
+Extracted Coordinates: 36.139405,115.306106
+
+URL: https://what3words.com/Misfits.Lives.Chickens
+Extracted Coordinates: 55.735621,52.349737
+
+URL: https://what3words.com/Misfits.Lives.Locker
+Extracted Coordinates: -22.754919,-45.125804
+
+URL: https://what3words.com/Misfits.Lives.Cannonball
+Extracted Coordinates: 46.194359,169.267776
+
+URL: https://what3words.com/Misfits.Handy.Robot
+Extracted Coordinates: 48.091082,11.798954
+
+URL: https://what3words.com/Misfits.Handy.Chest
+Extracted Coordinates: 50.979638,4.18887
+
+URL: https://what3words.com/Misfits.Handy.Dawn
+Extracted Coordinates: -13.448698,-76.155952
+
+URL: https://what3words.com/Misfits.Handy.Turkey
+Extracted Coordinates: 48.537018,11.464422
+
+URL: https://what3words.com/Misfits.Handy.Diet
+Extracted Coordinates: 25.730366,-100.227026
+
+URL: https://what3words.com/Misfits.Handy.Parrot
+Extracted Coordinates: 41.147221,35.477466
+
+URL: https://what3words.com/Misfits.Handy.Chickens
+Extracted Coordinates: 42.689616,-8.495837
+
+URL: https://what3words.com/Misfits.Handy.Locker
+Extracted Coordinates: 35.377897,140.215625
+
+URL: https://what3words.com/Misfits.Handy.Cannonball
+Extracted Coordinates: 77.718534,-145.31015
+
+URL: https://what3words.com/Misfits.Robot.Chest
+Extracted Coordinates: 41.511441,113.516224
+
+URL: https://what3words.com/Misfits.Robot.Dawn
+Extracted Coordinates: 43.613829,39.826724
+
+URL: https://what3words.com/Misfits.Robot.Turkey
+Extracted Coordinates: 36.06882,113.842758
+
+URL: https://what3words.com/Misfits.Robot.Diet
+Extracted Coordinates: 30.406304,-88.911869
+
+URL: https://what3words.com/Misfits.Robot.Parrot
+Extracted Coordinates: 19.584748,-99.581373
+
+URL: https://what3words.com/Misfits.Robot.Chickens
+Extracted Coordinates: 40.126496,113.148479
+
+URL: https://what3words.com/Misfits.Robot.Locker
+Extracted Coordinates: 38.701366,116.873324
+
+URL: https://what3words.com/Misfits.Robot.Cannonball
+Extracted Coordinates: 54.022167,-20.844874
+
+URL: https://what3words.com/Misfits.Chest.Dawn
+Extracted Coordinates: 53.335745,10.188878
+
+URL: https://what3words.com/Misfits.Chest.Turkey
+Extracted Coordinates: 14.62407,120.927069
+
+URL: https://what3words.com/Misfits.Chest.Diet
+Extracted Coordinates: 43.16986,-79.835237
+
+URL: https://what3words.com/Misfits.Chest.Parrot
+Extracted Coordinates: 31.098332,-97.765164
+
+URL: https://what3words.com/Misfits.Chest.Chickens
+Extracted Coordinates: 37.140052,122.299631
+
+URL: https://what3words.com/Misfits.Chest.Locker
+Extracted Coordinates: 57.83995,28.277093
+
+URL: https://what3words.com/Misfits.Chest.Cannonball
+Extracted Coordinates: 70.649728,-60.787801
+
+URL: https://what3words.com/Misfits.Dawn.Turkey
+Extracted Coordinates: 36.09631,139.384124
+
+URL: https://what3words.com/Misfits.Dawn.Diet
+Extracted Coordinates: 11.03319,-74.897014
+
+URL: https://what3words.com/Misfits.Dawn.Parrot
+Extracted Coordinates: 30.706514,-112.138278
+
+URL: https://what3words.com/Misfits.Dawn.Chickens
+Extracted Coordinates: 35.49244,51.08696
+
+URL: https://what3words.com/Misfits.Dawn.Locker
+Extracted Coordinates: 43.645523,1.587601
+
+URL: https://what3words.com/Misfits.Dawn.Cannonball
+Extracted Coordinates: 76.364071,-151.935153
+
+URL: https://what3words.com/Misfits.Turkey.Diet
+Extracted Coordinates: 42.85224,-1.642671
+
+URL: https://what3words.com/Misfits.Turkey.Parrot
+Extracted Coordinates: 49.677407,9.036604
+
+URL: https://what3words.com/Misfits.Turkey.Chickens
+Extracted Coordinates: -33.480177,150.14829
+
+URL: https://what3words.com/Misfits.Turkey.Locker
+Extracted Coordinates: 45.627358,25.525019
+
+URL: https://what3words.com/Misfits.Turkey.Cannonball
+Extracted Coordinates: 42.869731,-178.118583
+
+URL: https://what3words.com/Misfits.Diet.Parrot
+Extracted Coordinates: 56.075774,37.368748
+
+URL: https://what3words.com/Misfits.Diet.Chickens
+Extracted Coordinates: 19.183983,-99.222817
+
+URL: https://what3words.com/Misfits.Diet.Locker
+Extracted Coordinates: 40.859058,114.995848
+
+URL: https://what3words.com/Misfits.Diet.Cannonball
+Extracted Coordinates: 50.979692,148.925852
+
+URL: https://what3words.com/Misfits.Parrot.Chickens
+Extracted Coordinates: -3.203307,-59.877417
+
+URL: https://what3words.com/Misfits.Parrot.Locker
+Extracted Coordinates: 45.140726,125.367183
+
+URL: https://what3words.com/Misfits.Parrot.Cannonball
+Extracted Coordinates: 59.342861,-30.214493
+
+URL: https://what3words.com/Misfits.Chickens.Locker
+Extracted Coordinates: -20.30362,57.466831
+
+URL: https://what3words.com/Misfits.Chickens.Cannonball
+Extracted Coordinates: 42.055857,7.342215
+
+URL: https://what3words.com/Misfits.Locker.Cannonball
+Extracted Coordinates: 65.577687,-42.274615
+
+URL: https://what3words.com/Shady.Goat.Rocked
+Extracted Coordinates: 44.673634,27.747744
+
+URL: https://what3words.com/Shady.Goat.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Shady.Goat.Lives
+Extracted Coordinates: -43.47573,172.713704
+
+URL: https://what3words.com/Shady.Goat.Handy
+Extracted Coordinates: 43.398057,-87.891752
+
+URL: https://what3words.com/Shady.Goat.Robot
+Extracted Coordinates: 38.537018,-98.7881
+
+URL: https://what3words.com/Shady.Goat.Chest
+Extracted Coordinates: 40.799011,-73.790011
+
+URL: https://what3words.com/Shady.Goat.Dawn
+Extracted Coordinates: 36.572755,-82.204993
+
+URL: https://what3words.com/Shady.Goat.Turkey
+Extracted Coordinates: 42.639379,-84.663497
+
+URL: https://what3words.com/Shady.Goat.Diet
+Extracted Coordinates: 71.234139,-53.571722
+
+URL: https://what3words.com/Shady.Goat.Parrot
+Extracted Coordinates: 37.407355,115.369317
+
+URL: https://what3words.com/Shady.Goat.Chickens
+Extracted Coordinates: 41.139163,14.789036
+
+URL: https://what3words.com/Shady.Goat.Locker
+Extracted Coordinates: -37.603884,145.015472
+
+URL: https://what3words.com/Shady.Goat.Cannonball
+Extracted Coordinates: 49.484759,-160.530067
+
+URL: https://what3words.com/Shady.Rocked.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Shady.Rocked.Lives
+Extracted Coordinates: 7.196542,3.815952
+
+URL: https://what3words.com/Shady.Rocked.Handy
+Extracted Coordinates: -29.89113,-51.037795
+
+URL: https://what3words.com/Shady.Rocked.Robot
+Extracted Coordinates: 50.993141,5.826803
+
+URL: https://what3words.com/Shady.Rocked.Chest
+Extracted Coordinates: 34.840031,133.02407
+
+URL: https://what3words.com/Shady.Rocked.Dawn
+Extracted Coordinates: 47.745027,128.973713
+
+URL: https://what3words.com/Shady.Rocked.Turkey
+Extracted Coordinates: 43.189077,13.811982
+
+URL: https://what3words.com/Shady.Rocked.Diet
+Extracted Coordinates: 41.199615,16.603665
+
+URL: https://what3words.com/Shady.Rocked.Parrot
+Extracted Coordinates: 36.74783,118.826692
+
+URL: https://what3words.com/Shady.Rocked.Chickens
+Extracted Coordinates: 37.229638,126.768987
+
+URL: https://what3words.com/Shady.Rocked.Locker
+Extracted Coordinates: 51.529956,11.940708
+
+URL: https://what3words.com/Shady.Rocked.Cannonball
+Extracted Coordinates: 38.344585,9.731143
+
+URL: https://what3words.com/Shady.Skull.Lives
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Shady.Skull.Handy
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Shady.Skull.Robot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Shady.Skull.Chest
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Shady.Skull.Dawn
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Shady.Skull.Turkey
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Shady.Skull.Diet
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Shady.Skull.Parrot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Shady.Skull.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Shady.Skull.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Shady.Skull.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Shady.Lives.Handy
+Extracted Coordinates: 32.715219,-117.031715
+
+URL: https://what3words.com/Shady.Lives.Robot
+Extracted Coordinates: 42.520847,-83.037551
+
+URL: https://what3words.com/Shady.Lives.Chest
+Extracted Coordinates: 38.70107,-120.980462
+
+URL: https://what3words.com/Shady.Lives.Dawn
+Extracted Coordinates: 41.431584,-78.5277
+
+URL: https://what3words.com/Shady.Lives.Turkey
+Extracted Coordinates: 35.653205,-105.937882
+
+URL: https://what3words.com/Shady.Lives.Diet
+Extracted Coordinates: 36.581299,-4.889454
+
+URL: https://what3words.com/Shady.Lives.Parrot
+Extracted Coordinates: 32.826905,-83.704981
+
+URL: https://what3words.com/Shady.Lives.Chickens
+Extracted Coordinates: 36.444656,127.280152
+
+URL: https://what3words.com/Shady.Lives.Locker
+Extracted Coordinates: 40.534942,-78.407855
+
+URL: https://what3words.com/Shady.Lives.Cannonball
+Extracted Coordinates: 80.340651,-120.777912
+
+URL: https://what3words.com/Shady.Handy.Robot
+Extracted Coordinates: 34.372237,-118.314965
+
+URL: https://what3words.com/Shady.Handy.Chest
+Extracted Coordinates: 45.552461,-122.90625
+
+URL: https://what3words.com/Shady.Handy.Dawn
+Extracted Coordinates: -33.883692,151.203933
+
+URL: https://what3words.com/Shady.Handy.Turkey
+Extracted Coordinates: 34.192095,-118.34626
+
+URL: https://what3words.com/Shady.Handy.Diet
+Extracted Coordinates: 52.160293,-10.291337
+
+URL: https://what3words.com/Shady.Handy.Parrot
+Extracted Coordinates: 5.000175,-75.510944
+
+URL: https://what3words.com/Shady.Handy.Chickens
+Extracted Coordinates: 25.14865,55.348657
+
+URL: https://what3words.com/Shady.Handy.Locker
+Extracted Coordinates: 37.200396,-93.235462
+
+URL: https://what3words.com/Shady.Handy.Cannonball
+Extracted Coordinates: 55.507236,-176.260119
+
+URL: https://what3words.com/Shady.Robot.Chest
+Extracted Coordinates: 32.712767,-117.196811
+
+URL: https://what3words.com/Shady.Robot.Dawn
+Extracted Coordinates: 34.944844,-120.393827
+
+URL: https://what3words.com/Shady.Robot.Turkey
+Extracted Coordinates: 42.997723,-87.939232
+
+URL: https://what3words.com/Shady.Robot.Diet
+Extracted Coordinates: 36.472173,36.366335
+
+URL: https://what3words.com/Shady.Robot.Parrot
+Extracted Coordinates: -23.448887,-46.68199
+
+URL: https://what3words.com/Shady.Robot.Chickens
+Extracted Coordinates: 14.043863,100.637161
+
+URL: https://what3words.com/Shady.Robot.Locker
+Extracted Coordinates: -33.787206,151.052351
+
+URL: https://what3words.com/Shady.Robot.Cannonball
+Extracted Coordinates: 40.894203,-36.697578
+
+URL: https://what3words.com/Shady.Chest.Dawn
+Extracted Coordinates: 35.376065,-96.180638
+
+URL: https://what3words.com/Shady.Chest.Turkey
+Extracted Coordinates: 39.052946,-94.412622
+
+URL: https://what3words.com/Shady.Chest.Diet
+Extracted Coordinates: 31.069063,121.378352
+
+URL: https://what3words.com/Shady.Chest.Parrot
+Extracted Coordinates: 19.231336,-99.643177
+
+URL: https://what3words.com/Shady.Chest.Chickens
+Extracted Coordinates: 22.80742,113.916827
+
+URL: https://what3words.com/Shady.Chest.Locker
+Extracted Coordinates: 42.768017,-71.04422
+
+URL: https://what3words.com/Shady.Chest.Cannonball
+Extracted Coordinates: 49.56343,-170.384918
+
+URL: https://what3words.com/Shady.Dawn.Turkey
+Extracted Coordinates: 41.741793,-71.304839
+
+URL: https://what3words.com/Shady.Dawn.Diet
+Extracted Coordinates: 49.213117,19.319933
+
+URL: https://what3words.com/Shady.Dawn.Parrot
+Extracted Coordinates: 48.917057,2.434175
+
+URL: https://what3words.com/Shady.Dawn.Chickens
+Extracted Coordinates: 19.618141,-99.717734
+
+URL: https://what3words.com/Shady.Dawn.Locker
+Extracted Coordinates: 53.540198,-1.048173
+
+URL: https://what3words.com/Shady.Dawn.Cannonball
+Extracted Coordinates: 54.44444,-46.250162
+
+URL: https://what3words.com/Shady.Turkey.Diet
+Extracted Coordinates: 33.376442,44.052116
+
+URL: https://what3words.com/Shady.Turkey.Parrot
+Extracted Coordinates: -22.586284,-47.376183
+
+URL: https://what3words.com/Shady.Turkey.Chickens
+Extracted Coordinates: 34.489799,47.925971
+
+URL: https://what3words.com/Shady.Turkey.Locker
+Extracted Coordinates: 41.823833,-87.768356
+
+URL: https://what3words.com/Shady.Turkey.Cannonball
+Extracted Coordinates: 74.557689,-32.446725
+
+URL: https://what3words.com/Shady.Diet.Parrot
+Extracted Coordinates: 26.940155,-101.401079
+
+URL: https://what3words.com/Shady.Diet.Chickens
+Extracted Coordinates: -27.409969,-55.907207
+
+URL: https://what3words.com/Shady.Diet.Locker
+Extracted Coordinates: 57.712497,12.88851
+
+URL: https://what3words.com/Shady.Diet.Cannonball
+Extracted Coordinates: 39.143394,149.568534
+
+URL: https://what3words.com/Shady.Parrot.Chickens
+Extracted Coordinates: 46.547394,0.27203
+
+URL: https://what3words.com/Shady.Parrot.Locker
+Extracted Coordinates: 35.962039,139.858163
+
+URL: https://what3words.com/Shady.Parrot.Cannonball
+Extracted Coordinates: 44.506563,-53.838419
+
+URL: https://what3words.com/Shady.Chickens.Locker
+Extracted Coordinates: 50.756536,121.453578
+
+URL: https://what3words.com/Shady.Chickens.Cannonball
+Extracted Coordinates: 73.285481,32.941901
+
+URL: https://what3words.com/Shady.Locker.Cannonball
+Extracted Coordinates: 47.366389,-168.132939
+
+URL: https://what3words.com/Goat.Rocked.Skull
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Goat.Rocked.Lives
+Extracted Coordinates: -14.992494,13.475287
+
+URL: https://what3words.com/Goat.Rocked.Handy
+Extracted Coordinates: 44.5865,40.149754
+
+URL: https://what3words.com/Goat.Rocked.Robot
+Extracted Coordinates: 51.304105,13.259942
+
+URL: https://what3words.com/Goat.Rocked.Chest
+Extracted Coordinates: 45.650995,12.188214
+
+URL: https://what3words.com/Goat.Rocked.Dawn
+Extracted Coordinates: 38.430991,112.681732
+
+URL: https://what3words.com/Goat.Rocked.Turkey
+Extracted Coordinates: 35.166707,128.923413
+
+URL: https://what3words.com/Goat.Rocked.Diet
+Extracted Coordinates: 51.842888,6.282953
+
+URL: https://what3words.com/Goat.Rocked.Parrot
+Extracted Coordinates: 48.231794,16.149154
+
+URL: https://what3words.com/Goat.Rocked.Chickens
+Extracted Coordinates: 45.380835,11.764843
+
+URL: https://what3words.com/Goat.Rocked.Locker
+Extracted Coordinates: -26.200747,28.582507
+
+URL: https://what3words.com/Goat.Rocked.Cannonball
+Extracted Coordinates: 45.081676,159.23818
+
+URL: https://what3words.com/Goat.Skull.Lives
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Goat.Skull.Handy
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Goat.Skull.Robot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Goat.Skull.Chest
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Goat.Skull.Dawn
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Goat.Skull.Turkey
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Goat.Skull.Diet
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Goat.Skull.Parrot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Goat.Skull.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Goat.Skull.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Goat.Skull.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Goat.Lives.Handy
+Extracted Coordinates: 51.22414,0.230393
+
+URL: https://what3words.com/Goat.Lives.Robot
+Extracted Coordinates: 45.531115,-122.817617
+
+URL: https://what3words.com/Goat.Lives.Chest
+Extracted Coordinates: 41.418944,-82.017849
+
+URL: https://what3words.com/Goat.Lives.Dawn
+Extracted Coordinates: 44.232953,-88.408104
+
+URL: https://what3words.com/Goat.Lives.Turkey
+Extracted Coordinates: 51.138597,-0.099824
+
+URL: https://what3words.com/Goat.Lives.Diet
+Extracted Coordinates: 45.432905,10.492024
+
+URL: https://what3words.com/Goat.Lives.Parrot
+Extracted Coordinates: 45.446812,9.379901
+
+URL: https://what3words.com/Goat.Lives.Chickens
+Extracted Coordinates: 42.387519,-3.672053
+
+URL: https://what3words.com/Goat.Lives.Locker
+Extracted Coordinates: 53.107495,-1.21994
+
+URL: https://what3words.com/Goat.Lives.Cannonball
+Extracted Coordinates: 42.095151,152.692731
+
+URL: https://what3words.com/Goat.Handy.Robot
+Extracted Coordinates: 61.19064,-149.654223
+
+URL: https://what3words.com/Goat.Handy.Chest
+Extracted Coordinates: 40.620863,-76.796515
+
+URL: https://what3words.com/Goat.Handy.Dawn
+Extracted Coordinates: 43.268044,-89.746426
+
+URL: https://what3words.com/Goat.Handy.Turkey
+Extracted Coordinates: -36.779283,174.784178
+
+URL: https://what3words.com/Goat.Handy.Diet
+Extracted Coordinates: 35.647841,114.735951
+
+URL: https://what3words.com/Goat.Handy.Parrot
+Extracted Coordinates: 47.245081,123.843879
+
+URL: https://what3words.com/Goat.Handy.Chickens
+Extracted Coordinates: 25.091513,-77.332812
+
+URL: https://what3words.com/Goat.Handy.Locker
+Extracted Coordinates: 42.481282,-92.312262
+
+URL: https://what3words.com/Goat.Handy.Cannonball
+Extracted Coordinates: 71.244327,-32.573734
+
+URL: https://what3words.com/Goat.Robot.Chest
+Extracted Coordinates: 40.790333,-73.631962
+
+URL: https://what3words.com/Goat.Robot.Dawn
+Extracted Coordinates: 36.355743,-119.658919
+
+URL: https://what3words.com/Goat.Robot.Turkey
+Extracted Coordinates: 41.443012,-81.934408
+
+URL: https://what3words.com/Goat.Robot.Diet
+Extracted Coordinates: 19.282112,-103.747415
+
+URL: https://what3words.com/Goat.Robot.Parrot
+Extracted Coordinates: -17.912314,-51.730271
+
+URL: https://what3words.com/Goat.Robot.Chickens
+Extracted Coordinates: 38.361726,28.515178
+
+URL: https://what3words.com/Goat.Robot.Locker
+Extracted Coordinates: 37.453576,-122.115509
+
+URL: https://what3words.com/Goat.Robot.Cannonball
+Extracted Coordinates: 48.631293,175.29487
+
+URL: https://what3words.com/Goat.Chest.Dawn
+Extracted Coordinates: 40.095987,-83.15276
+
+URL: https://what3words.com/Goat.Chest.Turkey
+Extracted Coordinates: 36.914901,-76.287672
+
+URL: https://what3words.com/Goat.Chest.Diet
+Extracted Coordinates: 40.129002,29.087479
+
+URL: https://what3words.com/Goat.Chest.Parrot
+Extracted Coordinates: 10.434576,-71.481839
+
+URL: https://what3words.com/Goat.Chest.Chickens
+Extracted Coordinates: 39.250283,117.59746
+
+URL: https://what3words.com/Goat.Chest.Locker
+Extracted Coordinates: 34.132236,-118.459164
+
+URL: https://what3words.com/Goat.Chest.Cannonball
+Extracted Coordinates: 60.008853,-175.443248
+
+URL: https://what3words.com/Goat.Dawn.Turkey
+Extracted Coordinates: 40.228749,-76.150653
+
+URL: https://what3words.com/Goat.Dawn.Diet
+Extracted Coordinates: -28.89361,31.48742
+
+URL: https://what3words.com/Goat.Dawn.Parrot
+Extracted Coordinates: 50.911964,11.589124
+
+URL: https://what3words.com/Goat.Dawn.Chickens
+Extracted Coordinates: 59.852671,29.88249
+
+URL: https://what3words.com/Goat.Dawn.Locker
+Extracted Coordinates: 35.40598,-99.423892
+
+URL: https://what3words.com/Goat.Dawn.Cannonball
+Extracted Coordinates: 69.723197,0.396301
+
+URL: https://what3words.com/Goat.Turkey.Diet
+Extracted Coordinates: 45.811382,24.081999
+
+URL: https://what3words.com/Goat.Turkey.Parrot
+Extracted Coordinates: 20.991955,-101.635409
+
+URL: https://what3words.com/Goat.Turkey.Chickens
+Extracted Coordinates: 8.182662,124.167497
+
+URL: https://what3words.com/Goat.Turkey.Locker
+Extracted Coordinates: 39.856282,-86.095963
+
+URL: https://what3words.com/Goat.Turkey.Cannonball
+Extracted Coordinates: 39.353857,-151.739243
+
+URL: https://what3words.com/Goat.Diet.Parrot
+Extracted Coordinates: -23.629299,-46.428128
+
+URL: https://what3words.com/Goat.Diet.Chickens
+Extracted Coordinates: 19.853911,-99.478293
+
+URL: https://what3words.com/Goat.Diet.Locker
+Extracted Coordinates: 41.695653,123.485142
+
+URL: https://what3words.com/Goat.Diet.Cannonball
+Extracted Coordinates: 46.130485,-38.849926
+
+URL: https://what3words.com/Goat.Parrot.Chickens
+Extracted Coordinates: 50.865257,12.983568
+
+URL: https://what3words.com/Goat.Parrot.Locker
+Extracted Coordinates: 28.535886,-81.334607
+
+URL: https://what3words.com/Goat.Parrot.Cannonball
+Extracted Coordinates: 53.743653,-142.016069
+
+URL: https://what3words.com/Goat.Chickens.Locker
+Extracted Coordinates: 5.403339,100.445297
+
+URL: https://what3words.com/Goat.Chickens.Cannonball
+Extracted Coordinates: 38.706649,-14.844994
+
+URL: https://what3words.com/Goat.Locker.Cannonball
+Extracted Coordinates: 57.311813,-141.826614
+
+URL: https://what3words.com/Rocked.Skull.Lives
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Rocked.Skull.Handy
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Rocked.Skull.Robot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Rocked.Skull.Chest
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Rocked.Skull.Dawn
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Rocked.Skull.Turkey
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Rocked.Skull.Diet
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Rocked.Skull.Parrot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Rocked.Skull.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Rocked.Skull.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Rocked.Skull.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Rocked.Lives.Handy
+Extracted Coordinates: 41.745998,123.475878
+
+URL: https://what3words.com/Rocked.Lives.Robot
+Extracted Coordinates: 4.630269,-74.154343
+
+URL: https://what3words.com/Rocked.Lives.Chest
+Extracted Coordinates: 54.852159,55.965293
+
+URL: https://what3words.com/Rocked.Lives.Dawn
+Extracted Coordinates: 45.78788,12.057417
+
+URL: https://what3words.com/Rocked.Lives.Turkey
+Extracted Coordinates: 35.701205,51.428171
+
+URL: https://what3words.com/Rocked.Lives.Diet
+Extracted Coordinates: -22.998693,-47.059045
+
+URL: https://what3words.com/Rocked.Lives.Parrot
+Extracted Coordinates: 40.017613,116.722475
+
+URL: https://what3words.com/Rocked.Lives.Chickens
+Extracted Coordinates: 33.423634,44.334351
+
+URL: https://what3words.com/Rocked.Lives.Locker
+Extracted Coordinates: 42.833751,132.86987
+
+URL: https://what3words.com/Rocked.Lives.Cannonball
+Extracted Coordinates: 47.476431,145.109814
+
+URL: https://what3words.com/Rocked.Handy.Robot
+Extracted Coordinates: 38.25694,102.094274
+
+URL: https://what3words.com/Rocked.Handy.Chest
+Extracted Coordinates: 36.35383,120.380371
+
+URL: https://what3words.com/Rocked.Handy.Dawn
+Extracted Coordinates: 38.164551,27.351355
+
+URL: https://what3words.com/Rocked.Handy.Turkey
+Extracted Coordinates: 48.441933,-123.334248
+
+URL: https://what3words.com/Rocked.Handy.Diet
+Extracted Coordinates: 45.871968,8.80733
+
+URL: https://what3words.com/Rocked.Handy.Parrot
+Extracted Coordinates: 3.05494,101.642431
+
+URL: https://what3words.com/Rocked.Handy.Chickens
+Extracted Coordinates: 59.460961,56.844506
+
+URL: https://what3words.com/Rocked.Handy.Locker
+Extracted Coordinates: 33.82448,-78.683784
+
+URL: https://what3words.com/Rocked.Handy.Cannonball
+Extracted Coordinates: 80.042273,117.702773
+
+URL: https://what3words.com/Rocked.Robot.Chest
+Extracted Coordinates: 45.017963,41.047142
+
+URL: https://what3words.com/Rocked.Robot.Dawn
+Extracted Coordinates: 37.495351,127.042975
+
+URL: https://what3words.com/Rocked.Robot.Turkey
+Extracted Coordinates: 37.117009,35.281571
+
+URL: https://what3words.com/Rocked.Robot.Diet
+Extracted Coordinates: 46.600515,131.035605
+
+URL: https://what3words.com/Rocked.Robot.Parrot
+Extracted Coordinates: 46.314211,-79.495373
+
+URL: https://what3words.com/Rocked.Robot.Chickens
+Extracted Coordinates: 37.761899,139.083725
+
+URL: https://what3words.com/Rocked.Robot.Locker
+Extracted Coordinates: 18.957889,-98.782703
+
+URL: https://what3words.com/Rocked.Robot.Cannonball
+Extracted Coordinates: 55.595906,-26.153613
+
+URL: https://what3words.com/Rocked.Chest.Dawn
+Extracted Coordinates: -6.180533,-77.875366
+
+URL: https://what3words.com/Rocked.Chest.Turkey
+Extracted Coordinates: 49.555183,8.430036
+
+URL: https://what3words.com/Rocked.Chest.Diet
+Extracted Coordinates: 41.114071,80.361738
+
+URL: https://what3words.com/Rocked.Chest.Parrot
+Extracted Coordinates: 48.202768,11.354511
+
+URL: https://what3words.com/Rocked.Chest.Chickens
+Extracted Coordinates: 53.067122,8.183957
+
+URL: https://what3words.com/Rocked.Chest.Locker
+Extracted Coordinates: 36.104396,139.194873
+
+URL: https://what3words.com/Rocked.Chest.Cannonball
+Extracted Coordinates: 72.598466,25.377931
+
+URL: https://what3words.com/Rocked.Dawn.Turkey
+Extracted Coordinates: -45.930695,-67.551957
+
+URL: https://what3words.com/Rocked.Dawn.Diet
+Extracted Coordinates: 31.633126,-106.499826
+
+URL: https://what3words.com/Rocked.Dawn.Parrot
+Extracted Coordinates: 13.607765,-89.148788
+
+URL: https://what3words.com/Rocked.Dawn.Chickens
+Extracted Coordinates: 43.847119,125.239883
+
+URL: https://what3words.com/Rocked.Dawn.Locker
+Extracted Coordinates: 44.951852,39.058672
+
+URL: https://what3words.com/Rocked.Dawn.Cannonball
+Extracted Coordinates: 78.396143,133.255309
+
+URL: https://what3words.com/Rocked.Turkey.Diet
+Extracted Coordinates: 35.838117,115.326766
+
+URL: https://what3words.com/Rocked.Turkey.Parrot
+Extracted Coordinates: 34.46848,132.533245
+
+URL: https://what3words.com/Rocked.Turkey.Chickens
+Extracted Coordinates: -26.250499,28.157092
+
+URL: https://what3words.com/Rocked.Turkey.Locker
+Extracted Coordinates: 37.268421,-6.949001
+
+URL: https://what3words.com/Rocked.Turkey.Cannonball
+Extracted Coordinates: 44.026803,-50.780884
+
+URL: https://what3words.com/Rocked.Diet.Parrot
+Extracted Coordinates: 53.821246,27.560284
+
+URL: https://what3words.com/Rocked.Diet.Chickens
+Extracted Coordinates: 4.471122,101.117605
+
+URL: https://what3words.com/Rocked.Diet.Locker
+Extracted Coordinates: 35.510255,140.422479
+
+URL: https://what3words.com/Rocked.Diet.Cannonball
+Extracted Coordinates: 52.553431,-157.559483
+
+URL: https://what3words.com/Rocked.Parrot.Chickens
+Extracted Coordinates: 31.443038,121.142801
+
+URL: https://what3words.com/Rocked.Parrot.Locker
+Extracted Coordinates: 18.905495,-97.147558
+
+URL: https://what3words.com/Rocked.Parrot.Cannonball
+Extracted Coordinates: 61.583266,-29.899428
+
+URL: https://what3words.com/Rocked.Chickens.Locker
+Extracted Coordinates: 33.810654,130.697154
+
+URL: https://what3words.com/Rocked.Chickens.Cannonball
+Extracted Coordinates: 43.129595,-46.027599
+
+URL: https://what3words.com/Rocked.Locker.Cannonball
+Extracted Coordinates: 69.234759,-172.199703
+
+URL: https://what3words.com/Skull.Lives.Handy
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Lives.Robot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Lives.Chest
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Lives.Dawn
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Lives.Turkey
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Lives.Diet
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Lives.Parrot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Lives.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Lives.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Lives.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Handy.Robot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Handy.Chest
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Handy.Dawn
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Handy.Turkey
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Handy.Diet
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Handy.Parrot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Handy.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Handy.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Handy.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Robot.Chest
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Robot.Dawn
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Robot.Turkey
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Robot.Diet
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Robot.Parrot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Robot.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Robot.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Robot.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Chest.Dawn
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Chest.Turkey
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Chest.Diet
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Chest.Parrot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Chest.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Chest.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Chest.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Dawn.Turkey
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Dawn.Diet
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Dawn.Parrot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Dawn.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Dawn.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Dawn.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Turkey.Diet
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Turkey.Parrot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Turkey.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Turkey.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Turkey.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Diet.Parrot
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Diet.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Diet.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Diet.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Parrot.Chickens
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Parrot.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Parrot.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Chickens.Locker
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Chickens.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Skull.Locker.Cannonball
+Extracted Coordinates: 52.52,13.38
+
+URL: https://what3words.com/Lives.Handy.Robot
+Extracted Coordinates: 42.479261,-73.257621
+
+URL: https://what3words.com/Lives.Handy.Chest
+Extracted Coordinates: 38.659484,-90.120978
+
+URL: https://what3words.com/Lives.Handy.Dawn
+Extracted Coordinates: 41.348332,-93.565787
+
+URL: https://what3words.com/Lives.Handy.Turkey
+Extracted Coordinates: 40.779849,-73.272845
+
+URL: https://what3words.com/Lives.Handy.Diet
+Extracted Coordinates: 50.309926,127.558827
+
+URL: https://what3words.com/Lives.Handy.Parrot
+Extracted Coordinates: 53.101404,26.067057
+
+URL: https://what3words.com/Lives.Handy.Chickens
+Extracted Coordinates: 56.589896,57.788211
+
+URL: https://what3words.com/Lives.Handy.Locker
+Extracted Coordinates: 47.464034,-111.278596
+
+URL: https://what3words.com/Lives.Handy.Cannonball
+Extracted Coordinates: 60.640591,-89.179849
+
+URL: https://what3words.com/Lives.Robot.Chest
+Extracted Coordinates: 51.38388,-0.22975
+
+URL: https://what3words.com/Lives.Robot.Dawn
+Extracted Coordinates: 37.824291,-88.43535
+
+URL: https://what3words.com/Lives.Robot.Turkey
+Extracted Coordinates: 53.792246,-1.747053
+
+URL: https://what3words.com/Lives.Robot.Diet
+Extracted Coordinates: 52.152531,11.54081
+
+URL: https://what3words.com/Lives.Robot.Parrot
+Extracted Coordinates: 50.944009,22.216269
+
+URL: https://what3words.com/Lives.Robot.Chickens
+Extracted Coordinates: 35.890834,140.205787
+
+URL: https://what3words.com/Lives.Robot.Locker
+Extracted Coordinates: 39.477994,-77.358707
+
+URL: https://what3words.com/Lives.Robot.Cannonball
+Extracted Coordinates: 44.152558,-10.625131
+
+URL: https://what3words.com/Lives.Chest.Dawn
+Extracted Coordinates: 39.278285,-76.795029
+
+URL: https://what3words.com/Lives.Chest.Turkey
+Extracted Coordinates: 55.014136,-1.381701
+
+URL: https://what3words.com/Lives.Chest.Diet
+Extracted Coordinates: 44.374421,2.074152
+
+URL: https://what3words.com/Lives.Chest.Parrot
+Extracted Coordinates: -20.250768,-50.535819
+
+URL: https://what3words.com/Lives.Chest.Chickens
+Extracted Coordinates: 51.362724,6.674935
+
+URL: https://what3words.com/Lives.Chest.Locker
+Extracted Coordinates: 51.614988,-0.166298
+
+URL: https://what3words.com/Lives.Chest.Cannonball
+Extracted Coordinates: 54.321785,-20.276845
+
+URL: https://what3words.com/Lives.Dawn.Turkey
+Extracted Coordinates: 40.99465,-73.912293
+
+URL: https://what3words.com/Lives.Dawn.Diet
+Extracted Coordinates: 39.154417,115.28758
+
+URL: https://what3words.com/Lives.Dawn.Parrot
+Extracted Coordinates: 34.768286,136.535051
+
+URL: https://what3words.com/Lives.Dawn.Chickens
+Extracted Coordinates: 42.309387,123.378153
+
+URL: https://what3words.com/Lives.Dawn.Locker
+Extracted Coordinates: 38.097065,-122.22771
+
+URL: https://what3words.com/Lives.Dawn.Cannonball
+Extracted Coordinates: 59.244462,-57.518855
+
+URL: https://what3words.com/Lives.Turkey.Diet
+Extracted Coordinates: 36.348466,127.575786
+
+URL: https://what3words.com/Lives.Turkey.Parrot
+Extracted Coordinates: 52.931611,36.045941
+
+URL: https://what3words.com/Lives.Turkey.Chickens
+Extracted Coordinates: 29.545103,34.935407
+
+URL: https://what3words.com/Lives.Turkey.Locker
+Extracted Coordinates: 41.5057,-74.005708
+
+URL: https://what3words.com/Lives.Turkey.Cannonball
+Extracted Coordinates: 81.024377,-105.903613
+
+URL: https://what3words.com/Lives.Diet.Parrot
+Extracted Coordinates: 28.088279,-82.767593
+
+URL: https://what3words.com/Lives.Diet.Chickens
+Extracted Coordinates: 48.488155,-81.335103
+
+URL: https://what3words.com/Lives.Diet.Locker
+Extracted Coordinates: 56.204897,36.986652
+
+URL: https://what3words.com/Lives.Diet.Cannonball
+Extracted Coordinates: 42.068416,-15.650447
+
+URL: https://what3words.com/Lives.Parrot.Chickens
+Extracted Coordinates: 30.61364,114.706783
+
+URL: https://what3words.com/Lives.Parrot.Locker
+Extracted Coordinates: 52.114368,-106.618919
+
+URL: https://what3words.com/Lives.Parrot.Cannonball
+Extracted Coordinates: 48.348251,-162.301749
+
+URL: https://what3words.com/Lives.Chickens.Locker
+Extracted Coordinates: 43.612939,3.983747
+
+URL: https://what3words.com/Lives.Chickens.Cannonball
+Extracted Coordinates: 79.00217,23.883716
+
+URL: https://what3words.com/Lives.Locker.Cannonball
+Extracted Coordinates: 51.666411,-179.860814
+
+URL: https://what3words.com/Handy.Robot.Chest
+Extracted Coordinates: 43.513354,-70.392265
+
+URL: https://what3words.com/Handy.Robot.Dawn
+Extracted Coordinates: 57.118869,-2.009212
+
+URL: https://what3words.com/Handy.Robot.Turkey
+Extracted Coordinates: 55.061651,-1.47121
+
+URL: https://what3words.com/Handy.Robot.Diet
+Extracted Coordinates: -21.828334,-46.601263
+
+URL: https://what3words.com/Handy.Robot.Parrot
+Extracted Coordinates: 44.569521,26.205135
+
+URL: https://what3words.com/Handy.Robot.Chickens
+Extracted Coordinates: 41.070006,123.044295
+
+URL: https://what3words.com/Handy.Robot.Locker
+Extracted Coordinates: 39.782274,-86.110041
+
+URL: https://what3words.com/Handy.Robot.Cannonball
+Extracted Coordinates: 43.010012,-157.109237
+
+URL: https://what3words.com/Handy.Chest.Dawn
+Extracted Coordinates: 41.695006,-111.810388
+
+URL: https://what3words.com/Handy.Chest.Turkey
+Extracted Coordinates: 41.991874,-72.519528
+
+URL: https://what3words.com/Handy.Chest.Diet
+Extracted Coordinates: 59.393556,28.60692
+
+URL: https://what3words.com/Handy.Chest.Parrot
+Extracted Coordinates: -21.625256,-49.729558
+
+URL: https://what3words.com/Handy.Chest.Chickens
+Extracted Coordinates: 37.583562,120.359494
+
+URL: https://what3words.com/Handy.Chest.Locker
+Extracted Coordinates: 53.335934,-1.532018
+
+URL: https://what3words.com/Handy.Chest.Cannonball
+Extracted Coordinates: 52.720906,177.53795
+
+URL: https://what3words.com/Handy.Dawn.Turkey
+Extracted Coordinates: 51.264055,-0.711716
+
+URL: https://what3words.com/Handy.Dawn.Diet
+Extracted Coordinates: 47.954277,7.909239
+
+URL: https://what3words.com/Handy.Dawn.Parrot
+Extracted Coordinates: 34.352132,134.07117
+
+URL: https://what3words.com/Handy.Dawn.Chickens
+Extracted Coordinates: -34.980716,-58.081737
+
+URL: https://what3words.com/Handy.Dawn.Locker
+Extracted Coordinates: 38.568012,-90.479253
+
+URL: https://what3words.com/Handy.Dawn.Cannonball
+Extracted Coordinates: 57.643583,-80.743223
+
+URL: https://what3words.com/Handy.Turkey.Diet
+Extracted Coordinates: 18.492602,-97.392494
+
+URL: https://what3words.com/Handy.Turkey.Parrot
+Extracted Coordinates: 51.640457,45.952446
+
+URL: https://what3words.com/Handy.Turkey.Chickens
+Extracted Coordinates: 27.963333,-82.507341
+
+URL: https://what3words.com/Handy.Turkey.Locker
+Extracted Coordinates: 41.68498,-83.504567
+
+URL: https://what3words.com/Handy.Turkey.Cannonball
+Extracted Coordinates: 78.548499,-41.074959
+
+URL: https://what3words.com/Handy.Diet.Parrot
+Extracted Coordinates: 59.269742,15.240626
+
+URL: https://what3words.com/Handy.Diet.Chickens
+Extracted Coordinates: 50.919618,6.782148
+
+URL: https://what3words.com/Handy.Diet.Locker
+Extracted Coordinates: 43.76136,131.919374
+
+URL: https://what3words.com/Handy.Diet.Cannonball
+Extracted Coordinates: 41.050871,-132.469796
+
+URL: https://what3words.com/Handy.Parrot.Chickens
+Extracted Coordinates: 47.698537,19.70627
+
+URL: https://what3words.com/Handy.Parrot.Locker
+Extracted Coordinates: 36.204816,59.614725
+
+URL: https://what3words.com/Handy.Parrot.Cannonball
+Extracted Coordinates: 47.080706,-142.815389
+
+URL: https://what3words.com/Handy.Chickens.Locker
+Extracted Coordinates: 22.704439,113.982132
+
+URL: https://what3words.com/Handy.Chickens.Cannonball
+Extracted Coordinates: 77.026291,115.166967
+
+URL: https://what3words.com/Handy.Locker.Cannonball
+Extracted Coordinates: 50.190532,-172.063932
+
+URL: https://what3words.com/Robot.Chest.Dawn
+Extracted Coordinates: 51.411586,-0.024529
+
+URL: https://what3words.com/Robot.Chest.Turkey
+Extracted Coordinates: 42.946111,-78.812537
+
+URL: https://what3words.com/Robot.Chest.Diet
+Extracted Coordinates: 6.093373,102.294581
+
+URL: https://what3words.com/Robot.Chest.Parrot
+Extracted Coordinates: 18.088414,-94.405619
+
+URL: https://what3words.com/Robot.Chest.Chickens
+Extracted Coordinates: -5.918216,-35.269017
+
+URL: https://what3words.com/Robot.Chest.Locker
+Extracted Coordinates: 41.711311,-87.845277
+
+URL: https://what3words.com/Robot.Chest.Cannonball
+Extracted Coordinates: 66.982172,-46.341784
+
+URL: https://what3words.com/Robot.Dawn.Turkey
+Extracted Coordinates: 53.718292,-1.906159
+
+URL: https://what3words.com/Robot.Dawn.Diet
+Extracted Coordinates: 28.404094,36.611034
+
+URL: https://what3words.com/Robot.Dawn.Parrot
+Extracted Coordinates: 37.315802,-6.311042
+
+URL: https://what3words.com/Robot.Dawn.Chickens
+Extracted Coordinates: 37.059172,137.874138
+
+URL: https://what3words.com/Robot.Dawn.Locker
+Extracted Coordinates: 37.068389,-80.784351
+
+URL: https://what3words.com/Robot.Dawn.Cannonball
+Extracted Coordinates: 74.071515,-61.029137
+
+URL: https://what3words.com/Robot.Turkey.Diet
+Extracted Coordinates: 6.150752,-75.610076
+
+URL: https://what3words.com/Robot.Turkey.Parrot
+Extracted Coordinates: 39.354126,116.942242
+
+URL: https://what3words.com/Robot.Turkey.Chickens
+Extracted Coordinates: 55.597496,51.720194
+
+URL: https://what3words.com/Robot.Turkey.Locker
+Extracted Coordinates: 40.852024,-73.243388
+
+URL: https://what3words.com/Robot.Turkey.Cannonball
+Extracted Coordinates: 41.577175,166.112186
+
+URL: https://what3words.com/Robot.Diet.Parrot
+Extracted Coordinates: -14.051895,-75.678466
+
+URL: https://what3words.com/Robot.Diet.Chickens
+Extracted Coordinates: 22.347981,-80.575913
+
+URL: https://what3words.com/Robot.Diet.Locker
+Extracted Coordinates: 38.928781,-9.307387
+
+URL: https://what3words.com/Robot.Diet.Cannonball
+Extracted Coordinates: 49.145469,-155.381615
+
+URL: https://what3words.com/Robot.Parrot.Chickens
+Extracted Coordinates: 36.124367,114.790683
+
+URL: https://what3words.com/Robot.Parrot.Locker
+Extracted Coordinates: 56.26109,37.978123
+
+URL: https://what3words.com/Robot.Parrot.Cannonball
+Extracted Coordinates: 57.258638,-162.268288
+
+URL: https://what3words.com/Robot.Chickens.Locker
+Extracted Coordinates: 45.681207,122.761874
+
+URL: https://what3words.com/Robot.Chickens.Cannonball
+Extracted Coordinates: 40.7633,-57.506357
+
+URL: https://what3words.com/Robot.Locker.Cannonball
+Extracted Coordinates: 61.618464,158.269983
+
+URL: https://what3words.com/Chest.Dawn.Turkey
+Extracted Coordinates: 40.285616,-111.703333
+
+URL: https://what3words.com/Chest.Dawn.Diet
+Extracted Coordinates: 41.156897,28.460392
+
+URL: https://what3words.com/Chest.Dawn.Parrot
+Extracted Coordinates: 49.301221,119.437707
+
+URL: https://what3words.com/Chest.Dawn.Chickens
+Extracted Coordinates: 13.744758,100.179144
+
+URL: https://what3words.com/Chest.Dawn.Locker
+Extracted Coordinates: 40.762761,-86.344106
+
+URL: https://what3words.com/Chest.Dawn.Cannonball
+Extracted Coordinates: 40.832053,-127.785452
+
+URL: https://what3words.com/Chest.Turkey.Diet
+Extracted Coordinates: -12.221445,-76.896868
+
+URL: https://what3words.com/Chest.Turkey.Parrot
+Extracted Coordinates: 44.036937,8.170286
+
+URL: https://what3words.com/Chest.Turkey.Chickens
+Extracted Coordinates: 35.64714,139.853122
+
+URL: https://what3words.com/Chest.Turkey.Locker
+Extracted Coordinates: 45.671397,-122.644675
+
+URL: https://what3words.com/Chest.Turkey.Cannonball
+Extracted Coordinates: 52.320302,145.685913
+
+URL: https://what3words.com/Chest.Diet.Parrot
+Extracted Coordinates: 38.214465,115.464082
+
+URL: https://what3words.com/Chest.Diet.Chickens
+Extracted Coordinates: 36.781007,119.21875
+
+URL: https://what3words.com/Chest.Diet.Locker
+Extracted Coordinates: 48.320141,21.612699
+
+URL: https://what3words.com/Chest.Diet.Cannonball
+Extracted Coordinates: 64.138597,-47.125649
+
+URL: https://what3words.com/Chest.Parrot.Chickens
+Extracted Coordinates: -28.325989,-52.793366
+
+URL: https://what3words.com/Chest.Parrot.Locker
+Extracted Coordinates: 50.540791,4.21998
+
+URL: https://what3words.com/Chest.Parrot.Cannonball
+Extracted Coordinates: 76.626765,-6.836193
+
+URL: https://what3words.com/Chest.Chickens.Locker
+Extracted Coordinates: 9.952741,-84.039326
+
+URL: https://what3words.com/Chest.Chickens.Cannonball
+Extracted Coordinates: 51.048095,-168.930291
+
+URL: https://what3words.com/Chest.Locker.Cannonball
+Extracted Coordinates: 82.194925,42.01875
+
+URL: https://what3words.com/Dawn.Turkey.Diet
+Extracted Coordinates: 38.798391,117.110621
+
+URL: https://what3words.com/Dawn.Turkey.Parrot
+Extracted Coordinates: -6.260039,107.131822
+
+URL: https://what3words.com/Dawn.Turkey.Chickens
+Extracted Coordinates: 51.032112,-113.947638
+
+URL: https://what3words.com/Dawn.Turkey.Locker
+Extracted Coordinates: 37.815316,-96.834204
+
+URL: https://what3words.com/Dawn.Turkey.Cannonball
+Extracted Coordinates: 73.524566,-13.928415
+
+URL: https://what3words.com/Dawn.Diet.Parrot
+Extracted Coordinates: -22.954978,-42.522327
+
+URL: https://what3words.com/Dawn.Diet.Chickens
+Extracted Coordinates: 8.111565,-63.62101
+
+URL: https://what3words.com/Dawn.Diet.Locker
+Extracted Coordinates: 30.400698,-81.770708
+
+URL: https://what3words.com/Dawn.Diet.Cannonball
+Extracted Coordinates: 38.568604,-156.660303
+
+URL: https://what3words.com/Dawn.Parrot.Chickens
+Extracted Coordinates: -5.066017,-42.498822
+
+URL: https://what3words.com/Dawn.Parrot.Locker
+Extracted Coordinates: 19.762869,-99.267724
+
+URL: https://what3words.com/Dawn.Parrot.Cannonball
+Extracted Coordinates: 43.806773,135.731297
+
+URL: https://what3words.com/Dawn.Chickens.Locker
+Extracted Coordinates: 35.231767,139.686427
+
+URL: https://what3words.com/Dawn.Chickens.Cannonball
+Extracted Coordinates: 72.085692,-146.183202
+
+URL: https://what3words.com/Dawn.Locker.Cannonball
+Extracted Coordinates: 46.583266,-53.405936
+
+URL: https://what3words.com/Turkey.Diet.Parrot
+Extracted Coordinates: 45.280037,-66.064089
+
+URL: https://what3words.com/Turkey.Diet.Chickens
+Extracted Coordinates: 34.72158,135.626788
+
+URL: https://what3words.com/Turkey.Diet.Locker
+Extracted Coordinates: 50.229989,39.599996
+
+URL: https://what3words.com/Turkey.Diet.Cannonball
+Extracted Coordinates: 38.360972,-25.512565
+
+URL: https://what3words.com/Turkey.Parrot.Chickens
+Extracted Coordinates: -5.789012,-78.451466
+
+URL: https://what3words.com/Turkey.Parrot.Locker
+Extracted Coordinates: 21.133126,-86.766872
+
+URL: https://what3words.com/Turkey.Parrot.Cannonball
+Extracted Coordinates: 43.515807,139.395722
+
+URL: https://what3words.com/Turkey.Chickens.Locker
+Extracted Coordinates: -5.994569,107.03062
+
+URL: https://what3words.com/Turkey.Chickens.Cannonball
+Extracted Coordinates: 71.628059,43.83149
+
+URL: https://what3words.com/Turkey.Locker.Cannonball
+Extracted Coordinates: 46.208967,-143.050729
+
+URL: https://what3words.com/Diet.Parrot.Chickens
+Extracted Coordinates: 42.881347,129.507969
+
+URL: https://what3words.com/Diet.Parrot.Locker
+Extracted Coordinates: -23.787853,-46.388746
+
+URL: https://what3words.com/Diet.Parrot.Cannonball
+Extracted Coordinates: 78.440613,-4.669026
+
+URL: https://what3words.com/Diet.Chickens.Locker
+Extracted Coordinates: 45.505943,-73.52141
+
+URL: https://what3words.com/Diet.Chickens.Cannonball
+Extracted Coordinates: 52.528609,146.920811
+
+URL: https://what3words.com/Diet.Locker.Cannonball
+Extracted Coordinates: 37.359516,-139.827107
+
+URL: https://what3words.com/Parrot.Chickens.Locker
+Extracted Coordinates: 47.668782,40.174579
+
+URL: https://what3words.com/Parrot.Chickens.Cannonball
+Extracted Coordinates: 38.201501,131.273062
+
+URL: https://what3words.com/Parrot.Locker.Cannonball
+Extracted Coordinates: 56.389998,-152.65597
+
+URL: https://what3words.com/Chickens.Locker.Cannonball
+Extracted Coordinates: 42.552272,-16.838734
+
